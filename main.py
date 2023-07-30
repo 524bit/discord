@@ -60,4 +60,4 @@ async def 벤(ctx, user : discord.Member,*,reason):
 
 #토큰-----------------------------------------------------------------------------------------------------------------------------
 
-bot.run('MTEzMjg5ODk1NTc3NzI5ODQ1Mg.GPI1qy.CkGjClbQsVqhNDFpvZQ9GIJ8CffW_KkOczbT1E')
+bot.run('')
